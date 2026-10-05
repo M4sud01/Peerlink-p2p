@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+/downloads/*
+!/downloads/.gitkeep
+
+.venv/
+venv/
+env/
